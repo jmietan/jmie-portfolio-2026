@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 
 export default function Header() {
@@ -66,19 +67,19 @@ export default function Header() {
           <div className="mx-auto max-w-5xl px-5">
             <ul className="flex flex-col items-center p-8">
               <li>
-                <a className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:bg-neutral-200" href="#">
-                  Home
-                </a>
+                  <Link onClick={() => setOpen(false)} className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:bg-neutral-200" href="/">
+                    Home
+                  </Link>
               </li>
               <li>
-                <a className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:bg-neutral-200" href="#about">
-                  About
-                </a>
+                  <Link onClick={() => setOpen(false)} className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:bg-neutral-200" href="/projects">
+                    Projects
+                  </Link>
               </li>
               <li>
-                <a className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:bg-neutral-200" href="#contact">
-                  Contact
-                </a>
+                  <Link onClick={() => setOpen(false)} className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:bg-neutral-200" href="/contact">
+                    Contact
+                  </Link>
               </li>
             </ul>
           </div>

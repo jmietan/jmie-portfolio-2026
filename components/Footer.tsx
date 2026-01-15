@@ -6,7 +6,7 @@ export default function Footer() {
         <p className="mb-4">@{year} Made by Jaymie Tan</p>
 
         <div className="flex items-center justify-center gap-5">
-          <a href="#" aria-label="LinkedIn" className="hover:opacity-90">
+          <a href="https://www.linkedin.com/in/jaymietan/" aria-label="LinkedIn" className="hover:opacity-90">
             <span className="inline-flex items-center justify-center w-9 h-9 rounded-full bg-[#424345] text-white">
               <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                 <path d="M4.98 3.5C4.98 4.88 3.86 6 2.48 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM.24 8.24h4.48V24H.24V8.24zM8.74 8.24h4.3v2.16h.06c.6-1.14 2.06-2.34 4.24-2.34 4.54 0 5.38 2.98 5.38 6.84V24h-4.5v-7.2c0-1.72-.03-3.94-2.4-3.94-2.4 0-2.76 1.86-2.76 3.78V24H8.74V8.24z" />
@@ -14,7 +14,7 @@ export default function Footer() {
             </span>
           </a>
 
-          <a href="#" aria-label="GitHub" className="hover:opacity-90">
+          <a href="https://github.com/jmietan" aria-label="GitHub" className="hover:opacity-90">
             <span className="inline-flex items-center justify-center w-9 h-9 rounded-full bg-[#424345] text-white">
 
 
@@ -25,7 +25,7 @@ export default function Footer() {
             </span>
           </a>
 
-          <a href="#" aria-label="Instagram" className="hover:opacity-90">
+          <a href="https://www.instagram.com/yogaensalada/" aria-label="Instagram" className="hover:opacity-90">
             <span className="inline-flex items-center justify-center w-9 h-9 rounded-full bg-[#424345] text-white">
 
             <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">

@@ -101,3 +101,11 @@ html, body { height: 100%; }
 @media (prefers-reduced-motion: reduce) {
   .orbiter, .orbit-label { animation: none !important; }
 }
+
+/* Mobile and Tablet: constrain animations to prevent horizontal scroll */
+@media (max-width: 1023px) {
+  .orbit-label.driftLargeA,
+  .orbit-label.driftLargeB {
+    animation: none !important;
+  }
+}

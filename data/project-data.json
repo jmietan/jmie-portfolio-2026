@@ -1,0 +1,67 @@
+[
+  {
+    "id": "proj-1",
+    "title": "Yogaensalada",
+    "description": "During the 2020 pandemic, I developed a personal website focused on yoga and healthy living, using it as a creative outlet to share my passion for wellness. It provides resources on yoga routines, nutritious recipes, and lifestyle tips in order to inspire others in cultivating a balanced and health-conscience lifestyle.",
+    "roles": "UI/UX Designer, Back-end Developer",
+    "thumbnail": "",
+    "tags": ["WordPress", "MySQL", "Adobe Photoshop"]
+  },
+  {
+    "id": "proj-2",
+    "title": "Koro Filipino",
+    "description": "This project involved designing and developing a custom WordPress theme template, built entirely from scratch for High Fidelity. We presented high-fidelity mockups to the client and tailored the development to meet their specific needs. The site also integrates plugins with API connections to YouTube and Instagram, allowing for automatic content updates and a dynamic user experience.",
+    "roles": "Team Lead, Lead Web Developer",
+    "thumbnail": "",
+    "tags": ["WordPress", "Plugins with API", "Figma", "JavaScript"]
+  },
+  {
+    "id": "proj-3",
+    "title": "Job Search and Add Form",
+    "description": "This mini project includes form validation to ensure that submissions are only allowed when all required fields are correctly filled. Upon successful submission, the new job is added to the list below, and a search functionality enables users to filter the job listings efficiently.",
+    "roles": "Web Developer",
+    "thumbnail": "",
+    "tags": ["React", "Next.js", "Material UI", "Tailwind"]
+  },
+  {
+    "id": "proj-4",
+    "title": "Cloudberry",
+    "description": "In this Web Usability project, I designed a four-page responsive website in Figma for a Cloudberry farm, focusing on creating an engaging, user-friendly experience. The design emphasized vibrant visuals and an intuitive navigation structure to showcase the farm's offerings, enhancing usability for visitors across different devices.",
+    "roles": "UI/UX Designer",
+    "thumbnail": "",
+    "tags": ["Figma", "Adobe Photoshop"]
+  },
+  {
+    "id": "proj-5",
+    "title": "Dashboard",
+    "description": "This mini project is a React-based dashboard built with Material UI, utilizing its component libraries for a modern and responsive design. It fetches data from a JSON file to dynamically populate the interface, demonstrating data-driven UI development.",
+    "roles": "Web Developer",
+    "thumbnail": "",
+    "tags": ["React", "Next.js", "Material UI", "Tailwind"]
+  },
+  {
+    "id": "proj-6",
+    "title": "Focus Photography Club",
+    "description": "In this Web Usability project, I designed a landing page website in Figma for the Focus Photography Club, aiming to build awareness, promote events, and market the club and its membership options. The design focused on creating an engaging, user-friendly experience with vibrant visuals and an intuitive navigation structure.",
+    "roles": "Web Designer",
+    "thumbnail": "",
+    "tags": ["Figma"]
+  },
+  {
+    "id": "proj-7",
+    "title": "Petals & Stem",
+    "description": "In this PHP project, I developed custom functions to handle various form processes, including validating user inputs to ensure accurate data submission. I used regular expressions to verify phone numbers and email addresses, adding a layer of reliability and security to the form's functionality.",
+    "roles": "Back-end Developer, Server-side scripting",
+    "thumbnail": "",
+    "tags": ["HTML", "Bootstrap", "PHP"]
+  },
+  {
+    "id": "proj-8",
+    "title": "PAMJE",
+    "description": "In this project, I led the migration of a client's website from WordPress to the Laravel framework, aiming to boost loading speed and overall user experience. As the UI/UX Front-end Developer and Project Manager, I focused on creating a visually appealing and responsive interface that aligned with the client's organization.",
+    "roles": "UI/UX Front-end Developer, Project Manager",
+    "thumbnail": "",
+    "tags": ["HTML", "CSS", "Bootstrap", "Figma", "Adobe Photoshop"]
+  }
+ 
+]

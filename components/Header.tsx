@@ -67,17 +67,17 @@ export default function Header() {
           <div className="mx-auto max-w-5xl px-5">
             <ul className="flex flex-col items-center p-8">
               <li>
-                  <Link onClick={() => setOpen(false)} className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:bg-neutral-200" href="/">
+                  <Link onClick={() => setOpen(false)} className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:text-[#2D67B2]" href="/">
                     Home
                   </Link>
               </li>
               <li>
-                  <Link onClick={() => setOpen(false)} className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:bg-neutral-200" href="/projects">
+                  <Link onClick={() => setOpen(false)} className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:text-[#2D67B2]" href="/projects">
                     Projects
                   </Link>
               </li>
               <li>
-                  <Link onClick={() => setOpen(false)} className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:bg-neutral-200" href="/contact">
+                  <Link onClick={() => setOpen(false)} className="block w-full text-center px-3 py-6 text-[32px] font-medium text-gray-800 hover:text-[#2D67B2]" href="/contact">
                     Contact
                   </Link>
               </li>

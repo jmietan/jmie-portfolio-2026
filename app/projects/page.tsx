@@ -15,7 +15,7 @@ export default function ProjectsPage() {
       <Hero />
       <main className="mx-auto w-full max-w-5xl px-6 py-12">
         <h1 className="text-3xl font-semibold">Projects</h1>
-        <p className="mt-4 text-neutral-700">Selected projects and case studies.</p>
+        <p className="mt-4 text-neutral-700"></p>
 
         <section className="mt-8 grid gap-8 sm:grid-cols-1 md:grid-cols-2">
           {projects.map((p) => (

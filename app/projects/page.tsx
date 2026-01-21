@@ -20,7 +20,7 @@ export default function ProjectsPage() {
         <section className="mt-8 grid gap-8 sm:grid-cols-1 md:grid-cols-2">
           {projects.map((p) => (
             <article key={p.id} className="rounded-lg border border-neutral-200 bg-white shadow-sm overflow-hidden">
-              <div className="h-48 bg-neutral-100 flex items-center justify-center">
+              <div className="h-100 bg-neutral-100 flex items-center justify-center">
                 {p.thumbnail ? (
                   // eslint-disable-next-line @next/next/no-img-element
                   <img src={p.thumbnail} alt={p.title} className="h-full w-full object-cover" />

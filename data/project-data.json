@@ -44,7 +44,7 @@
     "title": "Focus Photography Club",
     "description": "In this Web Usability project, I designed a landing page website in Figma for the Focus Photography Club, aiming to build awareness, promote events, and market the club and its membership options. The design focused on creating an engaging, user-friendly experience with vibrant visuals and an intuitive navigation structure.",
     "roles": "Web Designer",
-    "thumbnail": "",
+    "thumbnail": "th-focus-photography-club.webp",
     "tags": ["Figma"]
   },
   {
@@ -52,7 +52,7 @@
     "title": "Petals & Stem",
     "description": "In this PHP project, I developed custom functions to handle various form processes, including validating user inputs to ensure accurate data submission. I used regular expressions to verify phone numbers and email addresses, adding a layer of reliability and security to the form's functionality.",
     "roles": "Back-end Developer, Server-side scripting",
-    "thumbnail": "th_petalsandstem.webp",
+    "thumbnail": "th-petalsandstem.webp",
     "tags": ["HTML", "Bootstrap", "PHP"]
   },
   {

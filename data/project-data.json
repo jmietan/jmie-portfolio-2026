@@ -52,7 +52,7 @@
     "title": "Petals & Stem",
     "description": "In this PHP project, I developed custom functions to handle various form processes, including validating user inputs to ensure accurate data submission. I used regular expressions to verify phone numbers and email addresses, adding a layer of reliability and security to the form's functionality.",
     "roles": "Back-end Developer, Server-side scripting",
-    "thumbnail": "th-petals_stem.webp",
+    "thumbnail": "th_petals_stem.webp",
     "tags": ["HTML", "Bootstrap", "PHP"]
   },
   {
